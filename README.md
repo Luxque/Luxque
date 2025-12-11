@@ -46,7 +46,7 @@ Let's expand the boundaries of quantum computing together; I look forward to con
     * Deepening my understanding in formal verification with Lean and Coq.
 * **Computer Science**
     * Reviewing compiler theory for my [**QuantumC**](https://github.com/singlerr/QuantumC) project.
-    * Exploring [`lambeq`](https://docs.quantinuum.com/lambeq/) and quantum natural langauge processing.
+    * Exploring [`lambeq`](https://docs.quantinuum.com/lambeq/) and quantum natural language processing.
 * **Physics**
     * Learning basic quantum mechanics for the better understanding of quantum computing.
 * **Linguistics**
@@ -60,8 +60,8 @@ Let's expand the boundaries of quantum computing together; I look forward to con
 * **Mathematics**: *All the Math You Missed* by Thomas A. Garrity
 * **Computer Science**: *QML Unlocked* by Javier Mancilla Montero
 * **Physics**: *Quantum Physics For Dummies* by Andrew Zimmerman Jones
-* **Linguistics**: $\empty$
-* **General**: $\empty$
+* **Linguistics**: ∅
+* **General**: ∅
 
 
 ## 📫 Connect with Me
