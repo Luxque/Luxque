@@ -1,4 +1,4 @@
-# Daniel Park
+# Daniel Park (Luxque)
 
 > *"Improbabilitas impossibilitatem non significat."*
 
@@ -15,7 +15,6 @@ I study and build tools to make quantum computing more rigorous, efficient, and 
 If you share the vision of building rigorous and verifiable quantum systems, I would be honored to collaborate.
 Let's expand the boundaries of quantum computing together; I look forward to connecting!
 
-
 ## 🔭 Current Research & Projects
 
 * [**QuantumC**](https://github.com/singlerr/QuantumC)
@@ -31,13 +30,11 @@ Let's expand the boundaries of quantum computing together; I look forward to con
     * *Philosophy*: "Teaching is the best way to learn."
     * *Status*: Seeking the hosting page.
 
-
 ## 🛠️ Technical Stack
 
 * **Programming Languages**: Python, Q#, C, C++, Java, and JavaScript
 * **Libraries & Packages**: Qiskit, Cirq, PennyLane, PyTorch, and Tensorflow
 * **Markup Languages**: $\LaTeX$, Markdown, HTML, and CSS
-
 
 ## 🌱 Currently Learning
 
@@ -54,7 +51,6 @@ Let's expand the boundaries of quantum computing together; I look forward to con
 * **General**
     * Learning personal finance.
 
-
 ## 📖 Currently Reading
 
 * **Mathematics**: *All the Math You Missed* by Thomas A. Garrity
@@ -63,13 +59,11 @@ Let's expand the boundaries of quantum computing together; I look forward to con
 * **Linguistics**: ∅
 * **General**: ∅
 
-
 ## 📫 Connect with Me
 
 * **Email**: parkdaniel1002@gmail.com
 * **LinkedIn**: https://www.linkedin.com/in/parkdaniel1002
 * **Threads**: https://www.threads.com/@parkdaniel1002
-
 
 ---
 
