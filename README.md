@@ -45,7 +45,7 @@ Let's expand the boundaries of quantum computing together; I look forward to con
     * Reviewing undergraduate level mathematics for [**Open Quantum Computing Textbook**](https://github.com/Luxque/Open-Quantum-Computing-Textbook).
     * Deepening my understanding in formal verification with Lean and Coq.
 * **Computer Science**
-    * Reviewing compiler theory for my [**QuantumC**](https://github.com/singlerr/QuantumC) project.
+    * Reviewing compiler theory for the [**QuantumC**](https://github.com/singlerr/QuantumC) project.
     * Exploring [`lambeq`](https://docs.quantinuum.com/lambeq/) and quantum natural language processing.
 * **Physics**
     * Learning basic quantum mechanics for the better understanding of quantum computing.
