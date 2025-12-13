@@ -9,7 +9,7 @@ I am a recent graduate in Computer Science and Mathematics from Rensselaer Polyt
 My research interests lie at the intersection of mathematics, computer science, physics, and linguistics, especially quantum information theory, formal verification, and natural language processing.
 
 I believe that groundbreaking insights happen at the intersections.
-I am a full-stack quantum researcher bridging the gap between abstract theory and practical application.
+So I thought myself to become a full-stack quantum researcher bridging the gap between abstract theory and practical application.
 I study and build tools to make quantum computing more rigorous, efficient, and last but not least, accessible for everyone.
 
 If you share the vision of building rigorous and verifiable quantum systems, I would be honored to collaborate.
