@@ -28,7 +28,7 @@ Let's expand the boundaries of quantum computing together; I look forward to con
     * *Status*: Verifying Results Before Release
 * [**Open Quantum Computing Textbook**](https://github.com/Luxque/Open-Quantum-Computing-Textbook)
     * *Philosophy*: "Teaching is the best way to learn."
-    * *Status*: Seeking the Hosting Page
+    * *Status*: Finalizing Chapter 1 and Writing Chapter 5
 
 ## 🛠️ Technical Stack
 
