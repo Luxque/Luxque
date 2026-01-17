@@ -13,7 +13,8 @@ So I thought myself to become a full-stack quantum researcher bridging the gap b
 I study and build tools to make quantum computing more rigorous, efficient, and last but not least, accessible for everyone.
 
 If you share the vision of building rigorous and verifiable quantum systems, I would be honored to collaborate.
-Let's expand the boundaries of quantum computing together; I look forward to connecting!
+Let's expand the boundaries of quantum computing together.
+I look forward to connecting!
 
 ## 🔭 Current Research & Projects
 
