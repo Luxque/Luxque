@@ -46,7 +46,7 @@ I look forward to connecting!
     * Reviewing compiler theory for the [**QuantumC**](https://github.com/singlerr/QuantumC) project.
     * Exploring [`lambeq`](https://docs.quantinuum.com/lambeq/) and quantum natural language processing.
 * **Physics**
-    * Learning basic quantum mechanics for the better understanding of quantum computing.
+    * Learning basic quantum mechanics for a better understanding of quantum computing.
 * **Linguistics**
     * Studying the structures of classical and extinct languages (e.g., Latin and Tangut).
 * **General**
