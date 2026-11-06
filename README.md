@@ -10,4 +10,4 @@
 
 ---
 
-$$\ket{\psi(\theta, \varphi)} = \cos\left(\frac{\theta}{2}\right)\ket{0} + \mathrm{e}^{\mathrm{i}\varphi}\sin\left(\frac{\theta}{2}\right)\ket{1}$$
+$$\ket{\psi(\theta, \varphi)} = \cos\left(\frac{\theta}{2}\right)\ket{0} + \mathrm{e}^{\varphi\mathrm{i}}\sin\left(\frac{\theta}{2}\right)\ket{1}$$
